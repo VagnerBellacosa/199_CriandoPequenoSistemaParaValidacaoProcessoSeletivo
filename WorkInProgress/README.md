@@ -34,7 +34,12 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Analisando candidatos](https://web.dio.me/lab/desafio-de-projeto-titulo/learning/e520bb56-c720-4985-96e5-1a51a6280ec7)[Selecionando candidatos](https://web.dio.me/lab/desafio-de-projeto-titulo/learning/22b235e0-2e37-4414-9f8f-66a81b330a03)[Imprimindo uma lista com os candidatos selecionados](https://web.dio.me/lab/desafio-de-projeto-titulo/learning/89d5eb77-43e1-40a5-abc1-3ce1ded6bd23)[Fazendo ligações para cada candidato selecionado](https://web.dio.me/lab/desafio-de-projeto-titulo/learning/ef475827-310b-4f9c-a28d-bb28215248b2)[Entendendo o desafio: Contador](https://web.dio.me/lab/desafio-de-projeto-titulo/learning/4c2f62a5-a3ab-491a-a2f4-febf4f676646)[Materiais de apoio](https://web.dio.me/lab/desafio-de-projeto-titulo/learning/72bcd7c5-50a1-426c-915f-49282d9bd718)
+- [Analisando candidatos](https://web.dio.me/lab/desafio-de-projeto-titulo/learning/e520bb56-c720-4985-96e5-1a51a6280ec7)
+- [Selecionando candidatos](https://web.dio.me/lab/desafio-de-projeto-titulo/learning/22b235e0-2e37-4414-9f8f-66a81b330a03)
+- [Imprimindo uma lista com os candidatos selecionados](https://web.dio.me/lab/desafio-de-projeto-titulo/learning/89d5eb77-43e1-40a5-abc1-3ce1ded6bd23)
+- [Fazendo ligações para cada candidato selecionado](https://web.dio.me/lab/desafio-de-projeto-titulo/learning/ef475827-310b-4f9c-a28d-bb28215248b2)
+- [Entendendo o desafio: Contador](https://web.dio.me/lab/desafio-de-projeto-titulo/learning/4c2f62a5-a3ab-491a-a2f4-febf4f676646)
+- [Materiais de apoio](https://web.dio.me/lab/desafio-de-projeto-titulo/learning/72bcd7c5-50a1-426c-915f-49282d9bd718)
 
 
 
